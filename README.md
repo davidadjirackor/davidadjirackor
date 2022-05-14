@@ -1,4 +1,4 @@
-- 👋 Hi, Im David. I have a passion for building databases and i have been doing it for a while mostly with Oracle tools. In recent times, Im looking to up skill myself
+👋 Hi, Im David. I have a passion for building databases and i have been doing it for a while mostly with Oracle tools. In recent times, Im looking to up skill myself
 
 focusing mainly on Back-End & API technologies. I believe a combination of that and my great SQL skills will be flames 🔥🔥 for my skillset. The aim is to have a lot of work with skills Im learning and the ones i already have. 
 
