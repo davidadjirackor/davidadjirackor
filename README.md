@@ -7,6 +7,7 @@ Want to know more about me? Check my website 🌎
 http://davidadjirackor.epizy.com/
 
 💻 Technologies 
+
 WordPress, HTML/CSS, PHP, SQL , ES6 , ClickUp.
 
 
