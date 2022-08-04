@@ -50,8 +50,7 @@ http://davidadjirackor.epizy.com/
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📝 Latest Blog Posts
-https://dev.to/its_comoo ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+
 
 <!---
 davidadjirackor/davidadjirackor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
