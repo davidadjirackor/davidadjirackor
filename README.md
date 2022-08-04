@@ -47,7 +47,7 @@ http://davidadjirackor.epizy.com/
 ![](https://img.shields.io/badge/Tools-SQL-Developer-informational?style=flat&logo=vercel&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Oracle-Apex-informational?style=flat&logo=vercel&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📝 Latest Blog Posts
 https://dev.to/its_comoo
