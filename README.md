@@ -31,6 +31,7 @@ http://davidadjirackor.epizy.com/
 ![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-WordPress-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PostgreSQL&color=336791)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 
 </br>
