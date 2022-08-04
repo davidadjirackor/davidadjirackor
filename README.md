@@ -28,11 +28,7 @@ http://davidadjirackor.epizy.com/
 ![](https://img.shields.io/badge/Code-PL/SQL-informational?style=flat&logo=TypeScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=Ruby&color=CC342D)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-WordPress-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PostgreSQL&color=336791)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
 
 </br>
 
@@ -40,18 +36,22 @@ http://davidadjirackor.epizy.com/
 ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwindcss&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 </br>
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-ClickUp-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-SQL-Developer-informational?style=flat&logo=vercel&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Oracle-Apex-informational?style=flat&logo=vercel&color=00C7B7)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📝 Latest Blog Posts
-https://dev.to/its_comoo
+https://dev.to/its_comoo ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 <!---
 davidadjirackor/davidadjirackor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
