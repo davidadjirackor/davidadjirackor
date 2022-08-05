@@ -9,9 +9,8 @@ http://davidadjirackor.epizy.com/
 ## 🔭 I'm currently working on:
 
 - My old projects
-- Migrating of Oracle Forms system to Oracle Apex
-- My portfolio website
-- My next blog
+- Migrating of Oracle Forms system to Oracle Apex (Current role) 
+- My portfolio website (adding more projects) 
 - My JavaScript skills
 
 ## 🌱 I'm currently learning:
