@@ -1,13 +1,11 @@
-👋 Hi, Im David. I have a passion for building databases and web tools and solving problems.  
-
-I also have skills in project/task management building with ClickUp. I have a youtube videos showing tutorials on how to understand & use it (https://www.youtube.com/watch?v=hRC7Imvufi0). When i am not writing code you will find me producing and editing podcasts (https://listentogcr.com) & enjoying life.
+👋 Hi, Im David. I have a passion for building databases and web tools and solving problems. I also have skills in project/task management building with ClickUp. I have a youtube videos showing tutorials on how to understand & use it (https://www.youtube.com/watch?v=hRC7Imvufi0). When i am not writing code you will find me producing and editing podcasts (https://listentogcr.com) & enjoying life.
 
 
 ## 🔭 I'm currently working on:
 
 - My old projects
-- Migrating of Oracle Forms system to Oracle Apex (Current role) 
-- My portfolio website (adding more projects) 
+- Migrating of Oracle Forms system to Oracle Apex 
+- My portfolio website  
 - My JavaScript skills
 
 ## 🌱 I'm currently learning:
