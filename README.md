@@ -1,17 +1,16 @@
-👋 Hi, Im David. I have a passion for building databases and web tools and solving problems. I also have skills in project/task management building with ClickUp. I have a youtube videos showing tutorials on how to understand & use it (https://www.youtube.com/watch?v=hRC7Imvufi0). When i am not writing code you will find me producing and editing podcasts (https://listentogcr.com) & enjoying life.
+👋 Hi, I am a certified Oracle Apex & Web Developer based in Accra. I have keen interest in databases and web technologies. 
 
 
 ## 🔭 I'm currently working on:
 
 - My old projects
-- Migrating of Oracle Forms system to Oracle Apex 
+- Migrating of Oracle Forms to Oracle Apex 
 - My portfolio website  
-- My JavaScript skills
+- JavaScript 
 
 ## 🌱 I'm currently learning:
 
 - JavaScript (a daily learning experience)
-- Advanced concepts of Multi Tenant Architecture of Oracle
 - Advanced Oracle Apex
 
 ## 💼 Technical Skills
